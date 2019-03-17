@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/imagineLife/simpleServer/issues"
   },
-  "homepage": "https://github.com/imagineLife/simpleServer#readme"
+  "homepage": "https://github.com/imagineLife/simpleServer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
